@@ -4,9 +4,9 @@
             <div class="panel panel-default">
                 <div class="panel-body">
                     <ul class="bxslider bxslider-custom">
-                        <li><img src="./assets/img/slide1.jpg" width="800" height="350" title="Slide 1" /></li>
-                        <li><img src="./assets/img/slide2.jpg" width="800" height="350"  title="Slide 2" /></li>
-                        <li><img src="./assets/img/slide3.jpg" width="800" height="350"  title="Slide 3" /></li>
+                        <li><img src="assets/img/slide1.jpg" width="800" height="350" title="Slide 1" /></li>
+                        <li><img src="assets/img/slide2.jpg" width="800" height="350"  title="Slide 2" /></li>
+                        <li><img src="assets/img/slide3.jpg" width="800" height="350"  title="Slide 3" /></li>
                     </ul>
                 </div>
             </div>
@@ -16,7 +16,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="thumbnail">
-                                <img src="./assets/img/fft261_mf15089009.Jpeg" />
+                                <img src="assets/img/fft261_mf15089009.Jpeg" />
                                 <div class="caption">
                                     <h3><a href="#">MANİSA SMMMO’DA YENİ DÖNEM</a></h3>
                                     <p class="text-justify">Dört grubun yarıştığı Manisa Serbest Muhasebeci ve Mali Müşavirler Odası (SMMMO)’nın 22. Olağan Genel Kurulunda oy sayımları tamamlandı. Oylama sonrası Yönetim</p>
@@ -82,7 +82,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="thumbnail">
-                                <img src="./assets/img/fft261_mf15089009.Jpeg" />
+                                <img src="assets/img/fft261_mf15089009.Jpeg" />
                                 <div class="caption">
                                     <h3><a href="#">MANİSA SMMMO’DA YENİ DÖNEM</a></h3>
                                     <p class="text-justify">Dört grubun yarıştığı Manisa Serbest Muhasebeci ve Mali Müşavirler Odası (SMMMO)’nın 22. Olağan Genel Kurulunda oy sayımları tamamlandı. Oylama sonrası Yönetim</p>
@@ -115,7 +115,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="thumbnail">
-                                <img src="./assets/img/fft261_mf15089009.Jpeg" />
+                                <img src="assets/img/fft261_mf15089009.Jpeg" />
                                 <div class="caption">
                                     <h3><a href="#">MANİSA SMMMO’DA YENİ DÖNEM</a></h3>
                                     <p class="text-justify">Dört grubun yarıştığı Manisa Serbest Muhasebeci ve Mali Müşavirler Odası (SMMMO)’nın 22. Olağan Genel Kurulunda oy sayımları tamamlandı. Oylama sonrası Yönetim</p>
@@ -171,7 +171,7 @@
                 <div class="panel-heading"><a href="#">Başkan</a></div>
                 <div class="panel-body">
                     <div class="thumbnail">
-                        <img src="./assets/img/fft261_mf15089009.Jpeg" />                        
+                        <img src="assets/img/fft261_mf15089009.Jpeg" />                        
                     </div>
                     <div class="media"> 
                         <div class="media-left"> 
