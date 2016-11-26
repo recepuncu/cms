@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twbs/bootstrap": "^3.3",
+        "catfan/Medoo": "^1.1",
+        "mikecao/flight": "^1.3"
+    }
+}
