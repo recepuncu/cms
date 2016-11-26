@@ -9,7 +9,7 @@
         <meta name="author" content="Recep Uncu">
     <title><?php echo $title; ?></title>
 
-    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />    
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/js/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" type="text/css"/>
@@ -35,7 +35,7 @@
                 </button>
                 <a class="navbar-brand" href="#">
                     <img src="assets/img/logo.png" alt="MANİSA SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODASI"/>
-                    <p>MANİSA SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODASI</p>                    
+                    <p class="navbar-brand-text">MANİSA SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODASI</p>                    
                 </a>                
             </div>
 

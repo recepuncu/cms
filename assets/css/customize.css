@@ -4,7 +4,7 @@
 */
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Oswald', sans-serif;
     background-color: #F5F5F5;
 }
 
@@ -31,10 +31,9 @@ body {
     padding: 10px 15px 0px 15px;
     max-width: 410px;
 }
-.navbar-custom .navbar-brand p {   
+.navbar-custom .navbar-brand .navbar-brand-text {   
     color: #2e3192;
-    font-size: 20px;
-    font-weight: bold; 
+    font-size: 20px;    
     margin: 15px 0 10px;
 }    
 .navbar-custom .navbar-brand img {
@@ -42,8 +41,7 @@ body {
     margin-right: 10px;
 }
 .navbar-custom .navbar-nav>li>a {
-    color: #292c2f;
-    font-weight: bold;
+    color: #292c2f;    
     line-height: 61px;
     border-bottom: solid 2px transparent;
     -webkit-transition-duration: 0.2s;
@@ -72,7 +70,9 @@ body {
     color: #03A9F4;
     background-color: #eeeeee;
 }
-
+.navbar-custom  .dropdown-menu>li>a {    
+    font-weight: 100;
+}
 
 /* PANEL */
 .panel {
