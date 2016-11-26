@@ -11,9 +11,9 @@
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" rel="stylesheet" type="text/css" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />    
-    <link href="./vendor/twbs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-    <link href="./assets/js/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" type="text/css"/>
-    <link href="./assets/css/customize.css" rel="stylesheet" type="text/css" />
+    <link href="vendor/twbs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/js/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/css/customize.css" rel="stylesheet" type="text/css" />
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -34,7 +34,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="#">
-                    <img src="./assets/img/logo.png" alt="MANİSA SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODASI"/>
+                    <img src="assets/img/logo.png" alt="MANİSA SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODASI"/>
                     <p>MANİSA SERBEST MUHASEBECİ MALİ MÜŞAVİRLER ODASI</p>                    
                 </a>                
             </div>
@@ -97,9 +97,9 @@
 
 </footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="./vendor/twbs/bootstrap/dist/js/bootstrap.min.js"></script>
-<script src="./assets/js/jquery.pinBox.min.js" type="text/javascript"></script>
-<script src="./assets/js/jquery.bxslider/jquery.bxslider.min.js" type="text/javascript"></script>
-<script src="./assets/js/script.js" type="text/javascript"></script>
+<script src="vendor/twbs/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="assets/js/jquery.pinBox.min.js" type="text/javascript"></script>
+<script src="assets/js/jquery.bxslider/jquery.bxslider.min.js" type="text/javascript"></script>
+<script src="assets/js/script.js" type="text/javascript"></script>
 </body>
 </html>
