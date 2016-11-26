@@ -5,7 +5,7 @@
                 <div class="panel-body">
                     <ul class="bxslider bxslider-custom">
                         <li><img src="assets/img/slide1.jpg" width="800" height="350" title="Slide 1" /></li>
-                        <li><img src="assets/img/slide2.jpg" width="800" height="350"  title="Slide 2" /></li>
+                        <li><img src="assets/img/slide2.JPG" width="800" height="350"  title="Slide 2" /></li>
                         <li><img src="assets/img/slide3.jpg" width="800" height="350"  title="Slide 3" /></li>
                     </ul>
                 </div>
