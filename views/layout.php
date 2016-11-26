@@ -11,7 +11,7 @@
 
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet" rel="stylesheet" type="text/css" />
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />    
-    <link href="vendor/twbs/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="assets/js/jquery.bxslider/jquery.bxslider.css" rel="stylesheet" type="text/css"/>
     <link href="assets/css/customize.css" rel="stylesheet" type="text/css" />
 
@@ -97,7 +97,7 @@
 
 </footer>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="vendor/twbs/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="assets/js/jquery.pinBox.min.js" type="text/javascript"></script>
 <script src="assets/js/jquery.bxslider/jquery.bxslider.min.js" type="text/javascript"></script>
 <script src="assets/js/script.js" type="text/javascript"></script>
