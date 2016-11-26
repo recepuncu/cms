@@ -40,7 +40,7 @@
             </div>
 
             <div class="collapse navbar-collapse" id="navbar-custom-collapse-1">
-                <form class="navbar-form navbar-right">
+                <form class="navbar-form navbar-right hidden-xs">
                     <div class="form-group hidden">
                         <input type="text" class="form-control" placeholder="Ne Aramıştınız?" />
                     </div>
